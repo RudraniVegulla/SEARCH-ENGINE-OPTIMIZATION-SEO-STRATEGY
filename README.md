@@ -14,4 +14,4 @@
 
 The SEO strategy for Glowing Blooms focuses on optimizing technical performance, keyword targeting, and content structure to boost organic visibility. It aims to drive quality traffic, improve search rankings, and convert visitors into loyal skincare customers.
 
-output: 
+output: [GLOWING BLOOMS TASK 3.docx](https://github.com/user-attachments/files/20959324/GLOWING.BLOOMS.TASK.3.docx)
